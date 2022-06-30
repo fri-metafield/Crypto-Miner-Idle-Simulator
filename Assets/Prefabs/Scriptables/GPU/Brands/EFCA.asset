@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde6b75ed37008945bf6d01b7e5986b6, type: 3}
+  m_Name: EFCA
+  m_EditorClassIdentifier: 
+  itemName: EFCA
+  itemImage: {fileID: 21300000, guid: bfd5515f86fbc044baab81706e064e69, type: 3}
+  itemId: 1
+  brandSpeedBonus: 15
+  brandSpeedOverclockBonus: -20
+  brandOverclockCycleBonus: 2
+  brandPowerBonus: 0
+  brandCostBonus: 0

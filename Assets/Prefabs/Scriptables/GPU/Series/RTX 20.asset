@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55119fb6499b53e42afbc127883dc05a, type: 3}
+  m_Name: RTX 20
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemImage: {fileID: 0}
+  itemId: 13
+  cardManager: {fileID: 11400000, guid: 16f120c6548b8f8478ecb8d24660fdbe, type: 2}
+  cardModel: {fileID: 11400000, guid: 4347b1659170d70459ddc9a49d40acf4, type: 2}
+  cardSeries: 20
+  cardSeriesCounter: 1
+  cardImages:
+    ColossalImage: {fileID: 21300000, guid: 829168603bdff9a45bad7b2243e87097, type: 3}
+    EFCAImage: {fileID: 21300000, guid: a786546b1a8635040ae1a55e9004b47d, type: 3}
+    MCIImage: {fileID: 21300000, guid: 7469f08edc0f48b48ace3ce7ca894180, type: 3}
+    NfrididaImage: {fileID: 21300000, guid: 574fc946a1b82444e8d5cdbf21ee7eac, type: 3}
+    SUSAImage: {fileID: 21300000, guid: f81230850cc504043b571844948268e5, type: 3}
+  cardPrice: 24414
+  cardBasePower: 450
+  cardBaseSpeed: 2000
+  cardPowerIncrease: 50
+  cardMarketUnlockOrder: 3

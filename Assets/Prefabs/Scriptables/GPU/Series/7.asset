@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55119fb6499b53e42afbc127883dc05a, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemImage: {fileID: 0}
+  itemId: 8
+  cardManager: {fileID: 11400000, guid: 4182fdd37511d654494eda4457c1b836, type: 2}
+  cardModel: {fileID: 11400000, guid: 689245b4962206848b0be7a782b44ad1, type: 2}
+  cardSeries: 7
+  cardSeriesCounter: 2
+  cardImages:
+    ColossalImage: {fileID: 21300000, guid: 829168603bdff9a45bad7b2243e87097, type: 3}
+    EFCAImage: {fileID: 21300000, guid: fa843724199c070459ae7b464181485f, type: 3}
+    MCIImage: {fileID: 21300000, guid: 4c695293ca7acce4990916a7a8d90f4d, type: 3}
+    NfrididaImage: {fileID: 21300000, guid: 5f8286a7fbcde9e4bb20e3bc483400cf, type: 3}
+    SUSAImage: {fileID: 21300000, guid: 5ce22b5cabca1af44852deffaef3b092, type: 3}
+  cardPrice: 100
+  cardBasePower: 300
+  cardBaseSpeed: 550
+  cardPowerIncrease: 20
+  cardMarketUnlockOrder: 1

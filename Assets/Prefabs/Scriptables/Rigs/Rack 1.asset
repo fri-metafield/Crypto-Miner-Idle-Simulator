@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869a03fa109e81c4a8eca5fb5cf3d80d, type: 3}
+  m_Name: Rack 1
+  m_EditorClassIdentifier: 
+  itemName: Starter Rack
+  itemImage: {fileID: 21300000, guid: b3e460e99acd78245ab80f106a670fb9, type: 3}
+  itemId: 0
+  rigIdle: {fileID: 21300000, guid: d1fd5e216c5fdb64aa3375169824fa55, type: 3}
+  rigMaxSlots: 8
+  rigPower: 500
+  rigMaxLevel: 40
