@@ -44,6 +44,8 @@ public class SaveManager : MonoBehaviour
     {
         if (keepResetting) FullReset();
         LoadOfflineProduction();
+
+        if (!PlayerPrefs.HasKey("Last_Login")) FullReset();
     }
 
     public void LoadOfflineProduction()
